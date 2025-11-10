@@ -1,4 +1,4 @@
 ---
-title: Senkova stanka
+title: Senkova stranka
 ---
 Hello
